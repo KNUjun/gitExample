@@ -1,12 +1,8 @@
 # markdownExample
 
-test 2\ntests
-hello
-   GoodBye
-
-
-new line
-test7
-
-
 test 8
+it is test 9
+
+
+it is test 10
+i'm using vi keyword
