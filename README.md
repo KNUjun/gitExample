@@ -10,8 +10,7 @@
 ## VCS란
 >VCS는 Version Control System의 약자로, 버전 관리 시스템을 의미한다.
 
-+ VCS는 뭘까  
-+ 왜 VCS를 사용하는가
++ [VCS는 무엇이고, 왜 사용하는가](index/VCS.md)
 
 ## git 사용준비
 + github 가입

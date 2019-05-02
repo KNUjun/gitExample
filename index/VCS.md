@@ -1,4 +1,4 @@
-# VCS는 뭘까
+# VCS는 무엇이고, 왜 사용하는가
 >버전 관리 시스템, Version Control System
 
 **버전 관리, 소스 관리, 소스코드 관리**란 동일한 정보에 대한 여러 버전을 관리하는 것을 말합니다.  
@@ -9,3 +9,23 @@
 + 변경 사항을 추적하기 위해서
 + 팀 단위 수정을 보다 안전하게 수행하기 위해서
 + 수평적 작업환경 구성을 위해서
+
+### VCS의 장점
+
+1. Check-out the code
+
+2. Work on the local opy
+
+3. Diff
+
+4. Commit your work to the server
+
+3. Update
+
+4. Confilict
+
+위와 같은 이유때문에 팀 단위 프로젝트에서는 반드시 VCS의 사용이 필요합니다.
+
+
+---
+### 다음 챕터
