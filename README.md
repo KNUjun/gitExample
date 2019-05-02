@@ -1,3 +1,3 @@
 # markdownExample
-training markdown
-a line i wrote on my local computer
+
+I'M TESTING FOR GIT
