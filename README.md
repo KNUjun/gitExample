@@ -12,9 +12,9 @@
 
 + [VCS는 무엇이고, 왜 사용하는가](index/VCS.md)
 
-## git 사용준비
-+ github 가입
-+ 새 Repository 생성
+## git 사용준비  
++ 저장소 생성
+
 ---
 ## 1. git 입문
 #### 1. Setting

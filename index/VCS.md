@@ -12,20 +12,16 @@
 
 ### VCS의 장점
 
-1. Check-out the code
-
-2. Work on the local opy
-
-3. Diff
-
-4. Commit your work to the server
-
-3. Update
-
-4. Confilict
+1. ___Check-out the codecode___  
+2. ___Work on the local opy___  
+3. ___Diff___  
+4. ___Commit your work to the server___  
+5. ___Update___  
+6. ___Confilict___
 
 위와 같은 이유때문에 팀 단위 프로젝트에서는 반드시 VCS의 사용이 필요합니다.
 
 
 ---
-### 다음 챕터
+## 다음 챕터
+#### [저장소 생성](repo.md)
