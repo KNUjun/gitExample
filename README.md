@@ -17,10 +17,10 @@
 
 ---
 ## 1. git 입문
-#### 1. Setting
-#### 2. Clone
-#### 3. Add & Commit
-#### 4. Push & Pull
+#### [1. Setting](index/setting.md)
+#### [2. Clone](index/clone.md)
+#### [3. Add & Commit](index/addCommit.md)
+#### [4. Push & Pull](index/pushPull.md)
 ## 2. git 중급
-#### 1. Branch & Merge
+#### [1. Branch & Merge](index/branchMerge.md)
 
