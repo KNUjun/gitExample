@@ -7,8 +7,7 @@
 
 
 ---
-## VCS란[^1]
-[^1]:ASDFGAS
+## VCS란
 >VCS는 Version Control System의 약자로, 버전 관리 시스템을 의미한다.
 
 + VCS는 뭘까  
@@ -20,10 +19,9 @@
 ---
 ## 1. git 입문
 #### 1. Setting
-#### 2. clone
-#### 3. add & commit
-#### 4. push & pull
+#### 2. Clone
+#### 3. Add & Commit
+#### 4. Push & Pull
 ## 2. git 중급
-#### 1. branch
-#### 2. merge
+#### 1. Branch & Merge
 
