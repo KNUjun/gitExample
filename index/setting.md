@@ -39,8 +39,8 @@ root@goorm:/workspace/github(master)#
 마지막으로 **구름IDE**에서 소스를 git으로 하지않고 git을 사용할 때는  
 `user.name`과 `user.email`을 작성해 현재 사용자의 정보를 입력해주어야합니다.
 ```
-git config --global user.name (username)
-git config --global user.email (Your email)
+git config --global user.name (user name)
+git config --global user.email (user email)
 ```
 
 이제 구름IDE를 통해 git을 사용할 준비를 모두 마쳤습니다.

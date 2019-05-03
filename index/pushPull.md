@@ -4,7 +4,7 @@
 
 자, 그럼 이제 확정된 내용을 외부저장소에 반영해 반영해봅시다.
 
-## push
+## 1. push
 `push`는 **HEAD** 에 있는 내용을 **외부저장소**에 보내는 역할을 합니다
 ```
 git push origin master
@@ -24,7 +24,7 @@ origin https://github.com/KNUjun/git.git (push)
 
 `fetch`는 `pull`에서, `master`는 `branch`에서 다루겠습니다.
 
-## pull
+## 2. pull
 `pull`은 `push`와 반대되는 개념으로 **외부저장소의 변경내용**을 **지역저장소**로 반영하는 역할을 합니다.
 
 `commit`과 다른 점이라면, `commit`은 외부저장소의 **모든 내용**을 복사해서 가져오는 반면  
