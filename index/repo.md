@@ -10,15 +10,15 @@ github에 접속 후 좌측 화면에 보면
 
 ![new](../img/repo1.PNG)
 
-다음 화면에서 _Repository name_과 _Description_을 작성하고  
+다음 화면에서 _Repository name_ 과 _Description_ 을 작성하고  
 _Initialize this repository with a README_ 를 체크한 뒤 `Creat repository`를 클릭합니다.
 
 ![creat](../img/repo2.PNG)
 
-Repository name을 **git** 으로, Description을 **git example**로 작성했을 때, 다음과 같은 **외부저장소**가 만들어집니다.
+_Repository name_ 을 **git** 으로, _Description_ 을 **git example**로 작성했을 때, 다음과 같은 **외부저장소**가 만들어집니다.
 
 ![remote](../img/repo3.PNG)
 
 ---
 ## 다음 챕터
-#### [Setting](setting.md)
+### [Setting](setting.md)

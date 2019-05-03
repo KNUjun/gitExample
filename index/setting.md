@@ -33,6 +33,7 @@ root@goorm:/workspace/github(master)#
 `(master)`의 의미는 나중에 설명해드리겠습니다.  
 
 `README.md` 파일을 더블블릭해서 열어봅니다.  
+
 ![markdown](../img/set3.PNG)
 
 마지막으로 **구름IDE**에서 소스를 git으로 하지않고 git을 사용할 때는  
@@ -46,6 +47,6 @@ git config --global user.email (Your email)
 
 ---
 ## 다음 챕터
-#### [Clone](clone.md)
+### [Clone](clone.md)
 
 
