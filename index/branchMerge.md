@@ -61,4 +61,17 @@ root@goorm:/workspace/gitExam/git(master)# git branch -d banana
 Deleted branch banana (was 95aa559)
 ```
 ## 2. merge
-`merge`는 이렇게 나뉜 `branch`들을 병합하는 역할을 수행합니다.
+`merge`는 이렇게 나뉜 `branch`들을 병합하는 역할을 수행합니다.  
+다른 가지에 있는 변경 내용을 현재 가지에 병합할 수 있습니다.
+```
+git merge <branch> 
+```
+`merge` 과정에서 충돌(_conflict_)이 일어날 수도 있습니다.  
+충돌이 발생하면 충돌이 일어난 파일을 수정해줘야만 `merge`를 할 수 있습니다.  
+
+충돌을 해결했으면 변경파일을 stage하고 (**Index**에 반영) 다시 `merge`하면 성공적으로 병합이 된 것을 알 수 있습니다.
+
+___
+### 지금까지 git의 전반적인 내용에 대해서 공부해 보았습니다.
+### 감사합니다.
+### [메인](../README.md)
